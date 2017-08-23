@@ -1,0 +1,12 @@
+*.zip
+*.bat
+*.sh
+*.cmd
+*.rst
+*.markdown
+*.*~
+*.mkdn
+*.md
+.*
+Thumbs.db
+enthumbs.db
